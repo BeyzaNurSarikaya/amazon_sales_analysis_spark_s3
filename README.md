@@ -1,5 +1,6 @@
 # Amazon Sales Data Analysis and Big Data Processing (PySpark)
-![alt text](image.png)
+<img width="1480" height="584" alt="image" src="https://github.com/user-attachments/assets/71784963-e24e-472d-b279-0b74dc2eadda" />
+
 This project demonstrates **Big Data** concepts and **Apache Spark (PySpark)** capabilities using Amazon sales data. The notebook covers data analysis, MapReduce logic, RDD vs DataFrame comparisons, Spark SQL queries, and real-time data streaming simulations.
 
 ## 📂 Project Structure
@@ -61,3 +62,4 @@ The dataset used in this analysis contains over 128,000 rows of Amazon India sal
 - **Source:** You can download the dataset from Kaggle: [Amazon Sales Report Dataset](https://www.kaggle.com/datasets/mdsazzatsardar/amazonsalesreport)
 - **Size:** ~128k rows and 24 columns.
 - **Note:** Due to GitHub's file size limits, the raw CSV file is not included in this repository. To run the notebook, please download the CSV from the link above and place it in the `/data` directory.
+
